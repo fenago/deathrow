@@ -1,5 +1,7 @@
 # deathrow
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fenago/deathrow/HEAD)
+
 The condemned dataset:  
 Key for current_sentence column:
 
